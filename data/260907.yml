@@ -5,7 +5,7 @@ about:
   head: b6d9685
   archived: false
   latestVersion: "v1.3.0"
-  collectedAt: 2026-09-07T05:18:19Z
+  collectedAt: 2026-09-07T19:16:31Z
 timeline:
   created: 2023-10-11
   lastCommit: 2026-05-28
@@ -83,7 +83,7 @@ total:
   commit: 151
 ---
 path: /home/runner/.x-repo/github.com/jwt-rs/jwt-ui
-collectedAt: 2026-09-07T05:18:21Z
+collectedAt: 2026-09-07T19:16:32Z
 loc:
   Rust:
     code: 3699
@@ -139,7 +139,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:18:21+00:00
+  collectedAt: 2026-09-07T19:16:32+00:00
   platform:
     darwin/arm64:
       name:  jwtui-macos-arm64.tar.gz
