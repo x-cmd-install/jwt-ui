@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 1430494,
       "digest": null,
-      "download_count": 157,
+      "download_count": 158,
       "created_at": "2024-12-06T18:54:17Z",
       "updated_at": "2024-12-06T18:54:17Z",
       "browser_download_url": "https://github.com/jwt-rs/jwt-ui/releases/download/v1.3.0/jwtui-linux-musl.tar.gz"
