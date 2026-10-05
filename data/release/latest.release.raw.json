@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 91,
       "digest": null,
-      "download_count": 20,
+      "download_count": 21,
       "created_at": "2024-12-06T18:54:49Z",
       "updated_at": "2024-12-06T18:54:49Z",
       "browser_download_url": "https://github.com/jwt-rs/jwt-ui/releases/download/v1.3.0/jwtui-aarch64-gnu.sha256"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 92,
       "digest": null,
-      "download_count": 26,
+      "download_count": 27,
       "created_at": "2024-12-06T18:54:28Z",
       "updated_at": "2024-12-06T18:54:28Z",
       "browser_download_url": "https://github.com/jwt-rs/jwt-ui/releases/download/v1.3.0/jwtui-aarch64-musl.sha256"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 89,
       "digest": null,
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2024-12-06T18:54:48Z",
       "updated_at": "2024-12-06T18:54:48Z",
       "browser_download_url": "https://github.com/jwt-rs/jwt-ui/releases/download/v1.3.0/jwtui-armv6-gnu.sha256"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 90,
       "digest": null,
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2024-12-06T18:54:43Z",
       "updated_at": "2024-12-06T18:54:43Z",
       "browser_download_url": "https://github.com/jwt-rs/jwt-ui/releases/download/v1.3.0/jwtui-armv6-musl.sha256"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 90,
       "digest": null,
-      "download_count": 99,
+      "download_count": 101,
       "created_at": "2024-12-06T18:54:17Z",
       "updated_at": "2024-12-06T18:54:17Z",
       "browser_download_url": "https://github.com/jwt-rs/jwt-ui/releases/download/v1.3.0/jwtui-linux-musl.sha256"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 1430494,
       "digest": null,
-      "download_count": 184,
+      "download_count": 185,
       "created_at": "2024-12-06T18:54:17Z",
       "updated_at": "2024-12-06T18:54:17Z",
       "browser_download_url": "https://github.com/jwt-rs/jwt-ui/releases/download/v1.3.0/jwtui-linux-musl.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 85,
       "digest": null,
-      "download_count": 191,
+      "download_count": 193,
       "created_at": "2024-12-06T18:54:10Z",
       "updated_at": "2024-12-06T18:54:10Z",
       "browser_download_url": "https://github.com/jwt-rs/jwt-ui/releases/download/v1.3.0/jwtui-linux.sha256"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 91,
       "digest": null,
-      "download_count": 109,
+      "download_count": 111,
       "created_at": "2024-12-06T18:53:27Z",
       "updated_at": "2024-12-06T18:53:27Z",
       "browser_download_url": "https://github.com/jwt-rs/jwt-ui/releases/download/v1.3.0/jwtui-macos-arm64.sha256"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 1129908,
       "digest": null,
-      "download_count": 747,
+      "download_count": 750,
       "created_at": "2024-12-06T18:53:27Z",
       "updated_at": "2024-12-06T18:53:27Z",
       "browser_download_url": "https://github.com/jwt-rs/jwt-ui/releases/download/v1.3.0/jwtui-macos-arm64.tar.gz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 85,
       "digest": null,
-      "download_count": 84,
+      "download_count": 86,
       "created_at": "2024-12-06T18:53:45Z",
       "updated_at": "2024-12-06T18:53:45Z",
       "browser_download_url": "https://github.com/jwt-rs/jwt-ui/releases/download/v1.3.0/jwtui-macos.sha256"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 1197628,
       "digest": null,
-      "download_count": 68,
+      "download_count": 69,
       "created_at": "2024-12-06T18:53:45Z",
       "updated_at": "2024-12-06T18:53:45Z",
       "browser_download_url": "https://github.com/jwt-rs/jwt-ui/releases/download/v1.3.0/jwtui-macos.tar.gz"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": null,
-      "download_count": 98,
+      "download_count": 100,
       "created_at": "2024-12-06T18:55:59Z",
       "updated_at": "2024-12-06T18:56:00Z",
       "browser_download_url": "https://github.com/jwt-rs/jwt-ui/releases/download/v1.3.0/jwtui-windows.sha256"
