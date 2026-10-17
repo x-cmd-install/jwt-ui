@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1288039,
       "digest": null,
-      "download_count": 42,
+      "download_count": 43,
       "created_at": "2024-12-06T18:54:49Z",
       "updated_at": "2024-12-06T18:54:49Z",
       "browser_download_url": "https://github.com/jwt-rs/jwt-ui/releases/download/v1.3.0/jwtui-aarch64-gnu.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 1430494,
       "digest": null,
-      "download_count": 196,
+      "download_count": 197,
       "created_at": "2024-12-06T18:54:17Z",
       "updated_at": "2024-12-06T18:54:17Z",
       "browser_download_url": "https://github.com/jwt-rs/jwt-ui/releases/download/v1.3.0/jwtui-linux-musl.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 85,
       "digest": null,
-      "download_count": 204,
+      "download_count": 206,
       "created_at": "2024-12-06T18:54:10Z",
       "updated_at": "2024-12-06T18:54:10Z",
       "browser_download_url": "https://github.com/jwt-rs/jwt-ui/releases/download/v1.3.0/jwtui-linux.sha256"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 1363669,
       "digest": null,
-      "download_count": 444,
+      "download_count": 448,
       "created_at": "2024-12-06T18:54:10Z",
       "updated_at": "2024-12-06T18:54:10Z",
       "browser_download_url": "https://github.com/jwt-rs/jwt-ui/releases/download/v1.3.0/jwtui-linux.tar.gz"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": null,
-      "download_count": 59,
+      "download_count": 60,
       "created_at": "2024-12-06T18:55:42Z",
       "updated_at": "2024-12-06T18:55:43Z",
       "browser_download_url": "https://github.com/jwt-rs/jwt-ui/releases/download/v1.3.0/jwtui-windows-aarch64.sha256"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 1068154,
       "digest": null,
-      "download_count": 192,
+      "download_count": 195,
       "created_at": "2024-12-06T18:55:59Z",
       "updated_at": "2024-12-06T18:56:00Z",
       "browser_download_url": "https://github.com/jwt-rs/jwt-ui/releases/download/v1.3.0/jwtui-windows.tar.gz"
